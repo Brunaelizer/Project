@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "app\\":"app",
+            "core\\":"core"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.9",
+        "symfony/dotenv": "^7.0"
+    }
+}
